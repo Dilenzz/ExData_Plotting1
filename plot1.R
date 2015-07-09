@@ -1,6 +1,3 @@
-getwd()
-setwd("C:/Users/Sergey/Documents/R/coursera/Exploratory DA/scripts/week1")
-
 # download and read the source file. Can be skipped if once done
 url="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
 download.file(url, destfile="source.zip")
